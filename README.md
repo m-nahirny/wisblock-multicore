@@ -1,4 +1,4 @@
-# wisblock-lorawan
+# wisblock-multicore
 Demonstrate multicore capability on a RAK11310 WisBlock Core module. This program simply blinks the WisBlock Base blue LED using core 1 and blinks the green LED using core 0.
 
 ## Hardware
